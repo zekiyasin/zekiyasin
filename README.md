@@ -1,5 +1,10 @@
 # I ❤️ PYTHON
 
+![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=Python&labelColor=000)
+
+
+![Zeki's github stats](https://github-readme-stats.vercel.app/api?username=zekiyasin&show_icons=true)
+
 <!--
 **zekiyasin/zekiyasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
