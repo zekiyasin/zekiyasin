@@ -13,6 +13,7 @@ Programming languages:
 Libraries/frameworks:
 ![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)
 ![React](https://img.shields.io/badge/-React-056676?style=flat&logo=react&labelColor=000)
+![Tailwind](https://img.shields.io/badge/-Tailwind-056676?style=flat&logo=tailwindcss&labelColor=000)
 
 
 Tools and Services:
