@@ -1,6 +1,6 @@
 # I ❤️ PYTHON
 
-##  Zeki Yasin Koçyiğit  &nbsp; &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([https://www.linkedin.com/in/bilalalpaslan](https://www.linkedin.com/in/zeki-yasin-ko%C3%A7yi%C4%9Fit-2458aa1b0/))
+##  Zeki Yasin Koçyiğit  &nbsp; &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([[https://www.linkedin.com/in/bilalalpaslan](https://www.linkedin.com/in/zeki-yasin-ko%C3%A7yi%C4%9Fit-2458aa1b0/)](https://www.linkedin.com/in/zeki-yasin-ko%C3%A7yi%C4%9Fit-2458aa1b0/))
 Continuous learner
 
 ## Just code it 💻
