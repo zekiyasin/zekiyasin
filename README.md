@@ -15,8 +15,7 @@ Continuous learner
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cjse2yrtfpiijz8rvwueo9lm3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cjse2yrtfpiijz8rvwueo9lm3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zekiyasin&icon=0&color=0)](https://visitcount.itsvg.in)
