@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/zeki-yasin-ko%C3%A7yi%C4%9Fit-2458aa1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:seninmailin@example.com">
+  <a href="mailto:zeki.kocyigit.2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
