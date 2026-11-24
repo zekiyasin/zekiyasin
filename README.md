@@ -2,6 +2,9 @@
 <h3 align="center">Mobile & Full-Stack Developer · React Native · React · .NET · Team Lead</h3>
 
 <p align="center">
+  <a href="https://zekiyasin.com">
+    <img src="https://img.shields.io/badge/Website-zekiyasin.com-16324f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/zeki-yasin-ko%C3%A7yi%C4%9Fit-2458aa1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
